@@ -149,9 +149,7 @@
 
   - **Data Preprocessing & Analysis**
     <div align="center">
-      <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" />
-      <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" />
-      <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" />
+        <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" />
     </div>
 
   - **Machine Learning & Deep Learning**
@@ -189,37 +187,27 @@
     </div>
 
 
-<!--Tools & IDEs-->
 - **Tools & IDEs**
-      <div align="center">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda" />
+    <img src="https://skillicons.dev/icons?i=arduino,vscode,qt" />
+    <br>
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=525252" />
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </div>
 
-            ![Git & GitHub](https://skillicons.dev/icons?i=git,github,docker,anaconda)
-            ![Tools](https://skillicons.dev/icons?i=arduino,vscode,qt)
-            <br>
-            ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=525252)
-            ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-            ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-      
-      </div>
-
-<!--Production-->
 - **Production**
-      <div align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=notion,obsidian" />
+</div>
 
-        
-        <img src="https://skillicons.dev/icons?i=notion,obsidian" />
-      
-      </div>
-
-<!--Learning now-->
 - **Coming Soon**
-      <div align="center">
-        
-        ![Cloud](https://skillicons.dev/icons?i=azure,aws)
-        ![tools&cloud](https://skillicons.dev/icons?i=gcp,kubernetes)
-        ![linux](https://skillicons.dev/icons?i=linux)
-      
-      </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws" />
+  <img src="https://skillicons.dev/icons?i=gcp,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+</div>
 
 <!--Line GIF-->
 <div align="center">
