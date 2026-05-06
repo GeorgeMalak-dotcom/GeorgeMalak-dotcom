@@ -1,16 +1,14 @@
 <!-- Header -->
-  <h1 align='center'>
-  
+<h1 align='center'>
   Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm George Malak.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
-  
   </h1>
 
 <!-- Typing SVG -->
 <p align="center">
-  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer+(Entry-Level);B.Sc.+Computer+Science+(AI)+%E2%80%94+Cairo+University;Microsoft+ML+Engineer+Program+(DEPI)+%7C+Nov+2025+-+Jul+2026;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Full-stack+Developer+with+React+%26+FastAPI;" alt="Typing SVG" /></a>
 
 </p>
+
 
 <!-- Fast about -->
 <p align="center">
@@ -29,8 +27,7 @@
 
 
 <!-- Starting of about -->
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> 
-<b> About Me</b>
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me</b>
 
 
 <!-- Table of what I stand with -->
