@@ -65,6 +65,7 @@
   <a href="https://nafezly.com/u/george_malak">
     <img src="https://img.shields.io/badge/Nafezly-1c1c1c?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
+
   <a href="https://www.freelanceyard.com/en/freelancers/george-malak-magdy">
     <img src="https://img.shields.io/badge/FreelanceYard-FF4500?style=for-the-badge&logo=anchor&logoColor=white" />
   </a>
@@ -188,13 +189,29 @@
   <!-- <a href="https://codeforces.com/profile/Gero_04">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40"/>
   </a> 
+  
   <a href="https://www.linkedin.com/in/george-malak/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
+<!--
 ---
+
+![Top Langs](https://top-langs-card.vercel.app)
+
+
+---
+
+### 🌐 Let's Connect!
+📧 **[Email Me](mailto:mynabekheet@gmail.com)**  
 
 <div align=center>
    <a href="https://github.com/GeorgeMalak-dotcom?tab=repositories" title="Show Repositories">Show More 🔍</a>
 </div>
+
+---
+
+> ⭐️ “Experience is the name everyone gives to their mistakes.”  
+> — Oscar Wilde
+-->
