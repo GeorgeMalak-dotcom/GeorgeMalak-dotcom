@@ -5,41 +5,50 @@
 
 <p align="center">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=FCAI+Cairo+University+AI+Student;AI+Engineer+and+Data+Scientist;Full-stack+Developer+with+Tailwind,+and+Django;Problem+Solver+on+Codeforces+and+Leetcode;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer+(Entry-Level);B.Sc.+Computer+Science+(AI)+%E2%80%94+Cairo+University;Microsoft+ML+Engineer+Program+(DEPI)+%7C+Nov+2025+-+Jul+2026;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Full-stack+Developer+with+React+%26+FastAPI;" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <em>
     I'm <b>George Malak</b>, a Computer Science student at <b>FCAI-CU</b>, Egypt. <br>
-    A dedicated <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> specializing in AI-driven applications. <br>
-    I am <b>obsessed</b> with building scalable systems and <b>optimizing</b> code to <br> 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> in the world of production-ready software.
+    An <b>Entry-Level Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a full-stack foundation. <br>
+    I’m focused on <b>ML engineering</b> workflows: data preprocessing, feature engineering, and model evaluation. <br>
+    I love building practical, production-minded systems where <b>ML meets software engineering</b>.
   </em>
 </p>
 
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.</b>
+
   <img align="right" height="170" width="280" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<div align="center">
+
+| 🎓 Education                                                       | 🧠 Current Focus                                                        | 🧩 Strengths                                                 |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **B.Sc. Computer Science (AI)**, Cairo University<br/>**GPA:** 3.0 | **Microsoft Machine Learning Engineer (DEPI)**<br/>Nov 2025 – July 2026 | Python • C++ • SQL<br/>Deep Learning • NLP • Computer Vision |
+
+</div>
 
 🔹 **What I Do:**
 
-- Develop backend systems using **ASP.NET MVC & FastAPI**
-- Design and manage databases (**SQL Server, SQLite**)
+- Build ML pipelines with **data preprocessing**, **feature engineering**, and **model evaluation**
+- Develop reliable backend services using **ASP.NET MVC & FastAPI**
+- Design and manage databases (**SQL Server, SQLite**) and write efficient **SQL**
 - Build responsive UIs using **React, JavaScript, HTML, CSS**
-- Apply **Python** for AI and  **C++** for problem-solving
 
 🔹 **What Drives Me:**
-- Writing clean, maintainable, and optimized code  
-- Continuously learning modern technologies  
-- Working in collaborative, agile environments  
-- Turning ideas into real, production-ready systems  
 
-  ---
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
+- Turning real-world problems into measurable ML solutions
+- Writing clean, maintainable, and optimized code
+- Continuous learning and strong engineering fundamentals
 
-- 🌐 The website I work on ...
+  ***
 
+## 💼 <b> Freelance Platforms</b>
+
+<p align="center"><em>Where you can hire me for freelance projects.</em></p>
 
 <div align='center'>
 
@@ -49,30 +58,28 @@
   <a href="https://www.freelancer.com/u/georgem494">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" />
   </a>
-
-
-  <a href="https://khamsat.com/user/george_malak04">
-    <img src="https://img.shields.io/badge/5AMSAT-FFC20E?style=for-the-badge&logo=fiveer&logoColor=white" />
+  <a href="https://www.freelanceyard.com/en/freelancers/george-malak-magdy">
+    <img src="https://img.shields.io/badge/FreelanceYard-FF4500?style=for-the-badge&logo=anchor&logoColor=white" />
   </a>
+  
+  <br/>
+  
   <a href="https://mostaql.com/u/george_malak04">
     <img src="https://img.shields.io/badge/Mostaql-238acb?style=for-the-badge&logo=independent&logoColor=white" />
+  </a>
+  <a href="https://khamsat.com/user/george_malak04">
+    <img src="https://img.shields.io/badge/5AMSAT-FFC20E?style=for-the-badge&logo=fiveer&logoColor=white" />
   </a>
   <a href="https://kafiil.com/u/george_malak">
     <img src="https://img.shields.io/badge/Kafiil-00B2A9?style=for-the-badge&logo=checkmarx&logoColor=white" />
   </a>
-  
-
   <a href="https://nafezly.com/u/george_malak">
     <img src="https://img.shields.io/badge/Nafezly-1c1c1c?style=for-the-badge&logo=rocket&logoColor=white" />
-  </a>
-
-  <a href="https://www.freelanceyard.com/en/freelancers/george-malak-magdy">
-    <img src="https://img.shields.io/badge/FreelanceYard-FF4500?style=for-the-badge&logo=anchor&logoColor=white" />
   </a>
    
   </div>
 <!--
-- 🧩 Where i Solve 
+- 🧩 Where i Solve
 
 <div align='center'>
    
@@ -87,65 +94,59 @@
    <img src="./pacman.gif" width=100%>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-
-- Programming language and Frameworks
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,java" />
-  </div>
-
-- FullStack Development
-  * FrontEnd
+- **ML / AI (Priority)**
+  - **Core Languages**
     <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=python,cpp" />
+      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
     </div>
-  * BackEnd
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
-      </div>
-  * DataBases
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
-    </div>
-- For AI :-
-  * Data Processing and visualization
+
+  - **Data Preprocessing & Analysis**
     <div align="center">
       <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" />
       <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" />
       <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" />
-    <!-- <img width="48" height="48" src="https://img.icons8.com/color/48/seaborn.png" /> -->
-      
     </div>
-    
-  * Machine Learning & Deep Learning
 
+  - **Machine Learning & Deep Learning**
     <div align="center">
-
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Deep%20Learning%20Algorithms-8B0000?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sklearn-FF0000?style=for-the-badge&logo=sklearn&logoColor=white" />
-    
-    
-    
-
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
     </div>
-    
-  * Computer Vision
 
+  - **NLP & Computer Vision**
     <div align="center">
-   
-    ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+      <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
     </div>
-  
+
+- **Full-Stack Development (Kept & Organized)**
+  - **Languages & Frameworks**
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=cs,java" />
+    </div>
+  - **Front-End**
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+    </div>
+  - **Back-End**
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+    </div>
+  - **Databases**
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+    </div>
+
   <!--(added soon)
   * LLMs, RAG & Agentic AI
-  
+
+
 - Tools & IDE
 
     <div align="center">     
@@ -156,11 +157,13 @@
         <br>  
         <img src="https://skillicons.dev/icons?i=arduino,vscode,qt" />
     </div>
+
 - Production
     <div align="center">
         <img src="https://skillicons.dev/icons?i=notion,obsidian" />
     </div>
     -->
+
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
@@ -171,7 +174,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMalak-dotcom&layout=compact&theme=dracula&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMalak-dotcom&layout=compact&theme=dracula&hide_border=true" height="160"/>  
+</div>
+
+<div align="center">
+  <img src="https://top-langs-card.vercel.app" height="160"/>  
 </div>
 
 <div align="center">
@@ -183,35 +190,25 @@
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
-  <a href="mailto:georgmalak2004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <!-- <a href="https://codeforces.com/profile/Gero_04">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40"/>
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/george-malak/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+  <a href="mailto:georgmalak2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/george-malak/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/></a>
 </p>
 
-<!--
 ---
 
-![Top Langs](https://top-langs-card.vercel.app)
+## 🤿 <b>Hobbies & Interests</b>
 
-
----
-
-### 🌐 Let's Connect!
-📧 **[Email Me](mailto:mynabekheet@gmail.com)**  
-
-<div align=center>
-   <a href="https://github.com/GeorgeMalak-dotcom?tab=repositories" title="Show Repositories">Show More 🔍</a>
-</div>
+- 🪂**Skydiving** - Chasing the adrenaline
+- 🤿**Diving** - Exploring the deep blue
+- 📚**Reading Books** - Continuous personal growth
+- 🏋️**GYM** - Keeping the mind and body fit
 
 ---
 
-> ⭐️ “Experience is the name everyone gives to their mistakes.”  
-> — Oscar Wilde
--->
+<p align="center">
+  <em>“AI is the new electricity. It has the potential to transform every industry and create a huge economic value.”
+    </em> 
+    <br>
+  <b> — Andrew Ng</b>
+</p>
