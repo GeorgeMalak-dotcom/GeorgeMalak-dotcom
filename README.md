@@ -29,7 +29,8 @@
 
 
 <!-- Starting of about -->
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me</b>
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> 
+<b> About Me</b>
 
 
 <!-- Table of what I stand with -->
@@ -144,9 +145,12 @@
     </div>
 
   - **Data Preprocessing & Analysis**
-    <div align="center">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" />&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" />
-    </div>
+      
+      <div align="center">
+        
+      ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+      
+      </div>
 
   - **Machine Learning & Deep Learning**
     <div align="center">
