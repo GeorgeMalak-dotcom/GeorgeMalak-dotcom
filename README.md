@@ -22,7 +22,7 @@
 
 <!--Line GIF-->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Loading..." />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Loading..."/>
 </div>
 
 
@@ -40,7 +40,6 @@
 </div>
 
 <!--Image Boy-->
-
 <img align="right" height="70%" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <br><br>
@@ -70,6 +69,7 @@
 - 📚**Reading Books** - Continuous personal growth
 - 🏋️**GYM** - Keeping the mind and body fit
 - 🎮**Gaming** - Unwinding with immersive worlds
+- 🎵**Music Enthusiast** - Exploring diverse genres and rhythms
 
 <!--my private freelance work-->
 ## 💼 <b> Freelance Platforms</b>
@@ -121,90 +121,72 @@
    [![Kaggle](https://img.shields.io/badge/Kaggle:George_Malak-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/georgemalakmagdy)
 </div>
 
-<!--Tech Stack I Use-->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+<!-- Tech Stack Section Header -->
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 
+  <b>Tech Stack & Skills</b>
+</h2>
 
-
-  <!--(added soon)
-  * LLMs, RAG & Agentic AI
-  -->
-
-<!--AI Head-->
-<img align="right" src="https://i.gifer.com/B0Sr.gif" width="200" alt="AI Animation" style="margin-left: 20px;"/>
-
-<!--Specializations my prior focus-->
-- **ML / AI (Priority)** 
-  - **Core Languages**    
-    <div align="center">
-
-      ![Python](https://skillicons.dev/icons?i=python)
-      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </div>
-
-  - **Data Preprocessing & Analysis**
-      
-      <div align="center">
-        
-      ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-      
-      </div>
-
-  - **Machine Learning & Deep Learning**
-    <div align="center">
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-    </div>
-
-  - **NLP & Computer Vision**
-    <div align="center">
-      <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    </div>
-
-
-- **Full-Stack Development (Kept & Organized)** 
-  - **Languages & Frameworks**
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,cs,java" />
-    </div>
-  - **Front-End**
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-    </div>
-  - **Back-End**
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
-    </div>
-  - **Databases**
-    <div align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
-    </div>
-
-
-- **Tools & IDEs**
+<details open>
+  <summary><strong>🎯 Machine Learning & AI Core</strong></summary>
+  <img align="right" src="https://i.gifer.com/B0Sr.gif" width="160" alt="AI Animation" style="margin-left: 20px; border-radius: 10px;"/>
+  <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda" />
-    <img src="https://skillicons.dev/icons?i=arduino,vscode,qt" />
-    <br>
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=525252" />
-    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
+      <p align="left"><em>🐍 Languages</em></p>
+      <img src="https://skillicons.dev/icons?i=python" height="40" />
+      <p align="left"><em>📊 Data Preprocessing & Analysis</em></p>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="35" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="35" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="35" />
+      <p align="left"><em>🧠 ML & Deep Learning Frameworks</em></p> <!--ML DP-->
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="35" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="35" />
+      <p align="left"><em>👁️ NLP & Computer Vision</em></p> <!--CV & NLP-->
+      <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" height="35" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="35" />
+      <img src="https://img.shields.io/badge/Apache%20Camel-E27A11?style=for-the-badge&logo=apache-camel&logoColor=white" height="35" />
+    </div>
+</details>
+
+<!-- Full-Stack Development -->
+<details>
+  <summary><strong>💻 Full-Stack Development</strong></summary>
+  <br>
+  <div align="center">
+    <p align="left"><em>🔹 Languages & Logic</em></p>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java" height="40" />
+    <p align="left"><em>🔹 Front-End & Styling</em></p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="40" />
+    <p align="left"><em>🔹 Back-End & DB</em></p>
+    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlite,mysql" height="40" />
   </div>
+</details>
 
-- **Production**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=notion,obsidian" />
-</div>
+<!-- Tools & IDEs -->
+<details>
+  <summary><strong>🛠️ Tools & Environments</strong></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,arduino,vscode,qt" height="40" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="35" />
+  </div>
+</details>
 
-- **Coming Soon**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws" />
-  <img src="https://skillicons.dev/icons?i=gcp,kubernetes" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-</div>
+<!-- Production & Coming Soon (Merged for compactness) -->
+<details>
+  <summary><strong>🚀 Productivity & Future Learning</strong></summary>
+  <br>
+  <div align="center">
+    <p align="left"><em>⚡ Production</em></p>
+    <img src="https://skillicons.dev/icons?i=notion,obsidian" height="40" />
+    <p align="left"><em>⏳ Coming Soon (Cloud & DevOps)</em></p>
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,linux,rproject" height="40" />
+  </div>
+</details>
 
 <!--Line GIF-->
 <div align="center">
@@ -215,19 +197,27 @@
   <!--GitHub Stats-->
 <h2 align="left">📊 GitHub Stats</h2>
 
-<!--Streak Stats-->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GeorgeMalak-dotcom&theme=dracula&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeMalak-dotcom&show_icons=true&theme=dracula&hide_border=true" height="170"/>
-</div>
-
-<br><br>
 <!--Top Langs-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMalak-dotcom&layout=compact&theme=dracula&hide_border=true" height="180"/> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMalak-dotcom&layout=compact&theme=dracula&hide_border=true" height="180"/>  -->
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgeMalak-dotcom&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
+
+<br><br>
+
+<!--Streak Stats-->
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <a href="https://github.com/GeorgeMalak-dotcom">
+      <img alt="George's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GeorgeMalak-dotcom&show_icons=true&count_private=true&theme=react-dark&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192"/>
+    </a>
+    <a href="https://github.com/GeorgeMalak-dotcom">
+      <img alt="George's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMalak-dotcom&langs_count=8&layout=compact&theme=react-dark&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192"/>
+    </a>
+  </div>
+</div>
+
 
 ---
 <!--Connect With Me-->
